@@ -1,3 +1,3 @@
 # K-Means-Clustering
 
-This is an attempt at emulating a basic k-means clustering algorithm.
+This is an attempt at implementing a basic k-means clustering algorithm.
